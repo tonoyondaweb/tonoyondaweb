@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tonooooy" target="blank"><img src="https://img.shields.io/twitter/follow/tonooooy?logo=twitter&style=for-the-badge" alt="tonooooy" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Typescript**
+- 🌱 I’m currently learning **Typescript, ReactJS, NextJS**
 
 - 👨‍💻 Check out my portfolio at [https://tanaylodh.vercel.app/](https://tanaylodh.vercel.app/)
 
